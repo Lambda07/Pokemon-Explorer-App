@@ -1,6 +1,9 @@
 <h1 align="center" id="title">Pokemon Explorer APP</h1>
 
-<p align="center"><img src="https://socialify.git.ci/Lambda07/Pokemon-Explorer-App/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
+
+![Pokemon-Explorer-App](https://github.com/Lambda07/Pokemon-Explorer-App/assets/155990728/babe83bc-e84e-40e9-b51d-f23300ccdf7d)
+
+
 
 <p id="description">This is a pokemon search Project based upon keywords and Filters like the type of pokemon</p>
 
