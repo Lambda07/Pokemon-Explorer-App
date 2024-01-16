@@ -1,0 +1,31 @@
+/* For small screens */
+@media screen and (max-width: 600px) {
+    .flex-row {
+      flex-direction: column; /* Stack elements vertically on small screens */
+    }
+  
+    .mb-5 {
+      margin-bottom: 1rem; /* Add some margin below the search and filter row on small screens */
+    }
+  
+    .w-20rem, .w-10rem {
+      width: 100%; /* Make both the search input and type select full width on small screens */
+      margin: 0.5rem 0; /* Add some vertical margin on small screens */
+    }
+  .hell{
+    margin-top: 20px;
+  }
+    .w-full {
+      width: 100%; /* Make the card container full width on small screens */
+    }
+    
+    .h-full {
+      height: auto; /* Allow the container to grow based on content height */
+    }
+  
+    body {
+      margin: 0; /* Remove default body margin to ensure full width on small screens */
+      background-color: #f0f0f0; /* Set a light background color */
+    }
+  }
+  
