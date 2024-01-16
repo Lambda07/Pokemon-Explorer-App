@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import Card from './Card';
 import style from '../styles/card.module.css';
-
+import './app2.css'
 const CardList = () => {
   const [arr, setArr] = useState([]);
   const [search, setSearch] = useState('');
@@ -53,7 +53,7 @@ const CardList = () => {
 
         <select
           className="bg-gradient-to-r from-purple-50 to-pink-50 font-thin rounded-md w-[10rem] h-8 pr-4 pl-2 ml-2
-          hover:from-purple-100 hover:to-pink-100"
+          hover:from-purple-100 hover:to-pink-100 hell"
           onChange={handleTypeChange}
           value={selectedType}
         >
